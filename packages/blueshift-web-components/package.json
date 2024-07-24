@@ -1,0 +1,17 @@
+{
+  "name": "blueshift-web-components",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lit-element": "^4.0.6",
+    "lit": "^3.1.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
